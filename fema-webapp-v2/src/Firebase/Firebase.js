@@ -11,7 +11,7 @@ var firebaseConfig = {
     storageBucket: "fema-damage-report.appspot.com",
     messagingSenderId: "XXXXXXXX",
     appId: "1:XXXXXXX:web:285a5822bc401a3f472a00",
-    measurementId: "G-98S1PXREQ8"
+    measurementId: "G-XXXXXXXXXX"
   };
 
 // Initialize Firebase
